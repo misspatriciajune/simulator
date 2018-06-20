@@ -1,0 +1,8 @@
+C:\Users\aspire\Downloads\CMSC132_Project\obj\x86\Debug\CMSC132_Project.exe
+C:\Users\aspire\Downloads\CMSC132_Project\obj\x86\Debug\CMSC132_Project.pdb
+C:\Users\aspire\Downloads\CMSC132_Project\bin\Debug\CMSC132_Project.exe
+C:\Users\aspire\Downloads\CMSC132_Project\bin\Debug\CMSC132_Project.pdb
+C:\Users\aspire\Downloads\CMSC132_Project\obj\x86\Debug\CMSC132_Project.csprojResolveAssemblyReference.cache
+C:\Users\aspire\Downloads\CMSC132_Project\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\aspire\Downloads\CMSC132_Project\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\aspire\Downloads\CMSC132_Project\obj\x86\Debug\CMSC132_Project.csproj.GenerateResource.Cache
